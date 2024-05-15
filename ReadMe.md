@@ -9,8 +9,9 @@ MAUI project can be standard MAUI or MAUI Hybrid project.
 - It will open up https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/blazorwebview?view=net-maui-8.0 
 - Click on `Search` button
 
-Expected behavior - search box opens
-Actual behavior - application crashes
+### Behavior
+- Expected behavior - search box opens
+- Actual behavior - application crashes
 
 > NOTE
 > The application suns fine on older iOS version.
